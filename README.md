@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 🌱 Always learning — because the web never stops changing  
 
 
-## 📌 Languages used 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-negi13&layout=compact&theme=radical)  
+## 📌 Languages used  
+<div align = "center">
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-negi13&layout=compact&theme=radical) 
+
+</div>
 
 
 ## 🛠 Tech Stack
