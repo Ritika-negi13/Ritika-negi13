@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/--007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![HTML5](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/--1572B6?logo=css&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/--F05032?logo=git&logoColor=white&style=flat-square)
 ![RxJS](https://img.shields.io/badge/--B7178C?logo=reactivex&logoColor=white&style=flat-square)
 
