@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Hi, I'm Ritika Negi  
+
+💡 **Part-time debugger, full-time learner**  
+🚀 Passionate about building responsive, modular web apps with **Angular**  
+🌱 Always learning — because the web never stops changing  
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** Angular, TypeScript, HTML, CSS, JavaScript  
+- **Other:** RxJS, Java , REST APIs, Git, Bootstrap 
+- **Tools & Platforms:** GitHub, VS Code, Postman  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+
+---
+
+## 📌 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+
+---
+
+## ✨ Fun Fact
+> I can spend 2 hours fixing a bug… and then realize it was a missing semicolon 😅
