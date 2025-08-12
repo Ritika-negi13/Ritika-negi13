@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 🚀 Passionate about building responsive, modular web apps with **Angular**  
 🌱 Always learning — because the web never stops changing  
 
----
 
 ## 📌 Languages used 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritika-negi13&layout=compact&theme=radical)  
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -46,7 +45,6 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/--007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/--FF6C37?logo=postman&logoColor=white&style=flat-square)
 
----
 
 ## ✨ Fun Fact
 > I can spend 2 hours fixing a bug… and then realize it was a missing semicolon 😅
