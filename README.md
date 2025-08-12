@@ -44,5 +44,3 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
 
 
-## ✨ Fun Fact
-> I can spend 2 hours fixing a bug… and then realize it was a missing semicolon 😅
