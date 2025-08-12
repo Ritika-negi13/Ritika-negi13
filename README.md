@@ -29,21 +29,16 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 ### Frontend
-![Angular](https://img.shields.io/badge/--DD0031?logo=angular&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/--007ACC?logo=typescript&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![HTML5](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/--1572B6?logo=css&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/--F05032?logo=git&logoColor=white&style=flat-square)
-![RxJS](https://img.shields.io/badge/--B7178C?logo=reactivex&logoColor=white&style=flat-square)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,html,sass,css,rxjs)](https://skillicons.dev)
 
 ### Database
-![MySQL](https://img.shields.io/badge/--005C84?logo=mysql&logoColor=white&style=flat-square)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 ### Tools & Platforms
-![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/--007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/--FF6C37?logo=postman&logoColor=white&style=flat-square)
+[![My Skills](https://skillicons.dev/icons?i=postman,vscode,git)](https://skillicons.dev)
+
+### Problem Solving
+[![My Skills](https://skillicons.dev/icons?i=java,cpp)](https://skillicons.dev)
 
 
 ## ✨ Fun Fact
